@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Sandbox", "Sandbox", "{4CDB6636-4A8D-4E85-AA22-14009E630F85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A.Summator", "Ozon\Sandbox\A.Summator\A.Summator.csproj", "{CDA4F74B-E2E7-425E-86F9-AC736EF6324A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B.Invoice", "Ozon\Sandbox\B.Invoice\B.Invoice.csproj", "{8FFEC491-D914-4E64-BBB2-A57A216951A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C.ParallelProg", "Ozon\Sandbox\C.ParallelProg\C.ParallelProg.csproj", "{84168FE0-A6C6-49C5-B906-505BF872162A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "J.Rhymes", "Ozon\Sandbox\J.Rhymes\J.Rhymes.csproj", "{4CD45CC1-0928-4879-BA3A-61CB9985FED8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDA4F74B-E2E7-425E-86F9-AC736EF6324A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDA4F74B-E2E7-425E-86F9-AC736EF6324A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDA4F74B-E2E7-425E-86F9-AC736EF6324A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDA4F74B-E2E7-425E-86F9-AC736EF6324A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FFEC491-D914-4E64-BBB2-A57A216951A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FFEC491-D914-4E64-BBB2-A57A216951A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FFEC491-D914-4E64-BBB2-A57A216951A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FFEC491-D914-4E64-BBB2-A57A216951A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84168FE0-A6C6-49C5-B906-505BF872162A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84168FE0-A6C6-49C5-B906-505BF872162A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84168FE0-A6C6-49C5-B906-505BF872162A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84168FE0-A6C6-49C5-B906-505BF872162A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CD45CC1-0928-4879-BA3A-61CB9985FED8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CD45CC1-0928-4879-BA3A-61CB9985FED8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CD45CC1-0928-4879-BA3A-61CB9985FED8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CD45CC1-0928-4879-BA3A-61CB9985FED8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{CDA4F74B-E2E7-425E-86F9-AC736EF6324A} = {4CDB6636-4A8D-4E85-AA22-14009E630F85}
+		{8FFEC491-D914-4E64-BBB2-A57A216951A3} = {4CDB6636-4A8D-4E85-AA22-14009E630F85}
+		{84168FE0-A6C6-49C5-B906-505BF872162A} = {4CDB6636-4A8D-4E85-AA22-14009E630F85}
+		{4CD45CC1-0928-4879-BA3A-61CB9985FED8} = {4CDB6636-4A8D-4E85-AA22-14009E630F85}
+	EndGlobalSection
+EndGlobal
